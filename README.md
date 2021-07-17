@@ -2,7 +2,9 @@
 
 Switch to "master" branch to view codes.
 
-⚛️ App screenshots will load below (if pictures dont't load, please reload) 
+⚛️ App screenshots will load below
+
+🔓 (if pictures dont't load, please reload OR CLICK on the image icon) 🔓
   
   ⭐HOMEPAGE
   
